@@ -1,0 +1,3 @@
+#Since our model even after zipping was coming to above 50 MB, we were not able to upload it. Hence we have shared our model file on Google Drive.
+
+https://drive.google.com/file/d/1lgJ0am9d-xBU6Pq669Ki1HYUpC-EU-ED/view?usp=sharing
